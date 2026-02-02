@@ -1,0 +1,6 @@
+body{background-color: rgb(0, 0, 0);}
+p{color: red;}
+h1{color: coral;}
+h2{color: rgb(80, 165, 255);}
+h3{color: rgb(0, 151, 220);}
+a{color: chartreuse;}
